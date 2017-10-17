@@ -9,3 +9,5 @@ namespace Logic.Entities
         public List<FeedItem> Items { get; set; }
     }
 }
+
+public class  emptyMethod{} //Testar bara att lägga till något
