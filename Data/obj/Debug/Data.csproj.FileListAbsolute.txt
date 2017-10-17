@@ -1,0 +1,5 @@
+C:\Users\Ellenor\Downloads\CSharpProjectEmpty\CSharpProjectEmpty\Data\bin\Debug\Data.dll
+C:\Users\Ellenor\Downloads\CSharpProjectEmpty\CSharpProjectEmpty\Data\bin\Debug\Data.pdb
+C:\Users\Ellenor\Downloads\CSharpProjectEmpty\CSharpProjectEmpty\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Ellenor\Downloads\CSharpProjectEmpty\CSharpProjectEmpty\Data\obj\Debug\Data.dll
+C:\Users\Ellenor\Downloads\CSharpProjectEmpty\CSharpProjectEmpty\Data\obj\Debug\Data.pdb
